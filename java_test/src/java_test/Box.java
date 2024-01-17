@@ -1,3 +1,4 @@
+package java_test;
 
 public class Box {
 	private String item;
